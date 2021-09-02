@@ -1,3 +1,8 @@
+---
+title: "eka blogi-julkaisu"
+date: 2021-09-02
+---
+
 # Julkaisun sisältö
 esimerkiksi taulukko
 
